@@ -2,8 +2,10 @@
 Fuction Auto Eject Disk External
 
 Script made from Bash,
+device used for testing
+Macbook Air M1 , with OS Sonoma 
 
-detects external disk connected to Mac OS Sonoma ,
+detects external disk connected to Mac,
 
 if there is external disk then it will be ejected/unmounted,
 
