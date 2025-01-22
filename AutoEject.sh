@@ -1,6 +1,6 @@
 #!/bin/bash
-#CreateBy Agung sujiwo 22/01/2025
-# Function to eject a specific disk
+#Create by Agung sujiwo 22/01/2025
+#Function to eject a specific disk
 
 #Fuction eject disk.
 eject_disk() {
